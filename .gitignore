@@ -1,0 +1,21 @@
+# Node
+**/node_modules/
+
+# Build artifacts
+contracts/artifacts/
+contracts/cache/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/.vercel/
+
+# Env files
+.env
+.env.*
+.env.local
+contracts/.env
+frontend/.env.local
+
+# Logs and system files
+*.log
+.DS_Store
